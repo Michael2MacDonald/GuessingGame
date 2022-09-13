@@ -1,3 +1,17 @@
+/**
+ * Michael MacDonald
+ * 9/12/2022
+ * 
+ * Guessing Game
+ * This app is pretty self-explanitory
+ * 
+ * Rules:
+ * - Avoid global vars at all costs (const is fine)
+ * - Use <iostream>
+ * - No strings. cstring is fine.
+ * 
+ */
+
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
